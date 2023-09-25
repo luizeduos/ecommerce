@@ -23,7 +23,7 @@ O código do site está dividido em três partes principais:
 * CSS: O código CSS estiliza o site.
 * JavaScript: O código JavaScript adiciona interatividade ao site.
 
-###HTML
+### HTML
 
 O código HTML do site está localizado no arquivo `index.html`. O código HTML define a estrutura do site, incluindo cabeçalho, navegação, área de conteúdo principal e rodapé.
 
